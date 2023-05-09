@@ -9,19 +9,19 @@ Clone the remote repository to your local repository.
 ##Usage
 
 '''md
-![Start Quiz - Part 1 Screenshot](C:\Users\karaf\bootcamp\WebAPIsChallenge\assets\images\coding-quiz_Part1.png)
+![Start Quiz - Part 1 Screenshot](assets/images/coding-quiz_Part1.png)
 '''
 
 '''md
-![Taking Timed Quiz - Part 2 Screenshot](C:\Users\karaf\bootcamp\WebAPIsChallenge\assets\images\coding-quiz_Part2.png)
+![Taking Timed Quiz - Part 2 Screenshot](assets/images/coding-quiz_Part2.png)
 '''
 
 '''md
-![Quiz Completed - Enter Initials - Part 3 Screenshot](C:\Users\karaf\bootcamp\WebAPIsChallenge\assets\images\coding-quiz_Part3.png)
+![Quiz Completed - Enter Initials - Part 3 Screenshot](assets/images/coding-quiz_Part3.png)
 '''
 
 '''md
-![View HighScores - Part 4 Screenshot](C:\Users\karaf\bootcamp\WebAPIsChallenge\assets\images\coding-quiz_Part4.png)
+![View HighScores - Part 4 Screenshot](assets/images/coding-quiz_Part4.png)
 '''
 
 Github Remote Repository URL https://github.com/karafaris/WebAPIs.git
